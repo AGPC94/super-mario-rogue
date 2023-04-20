@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1062e50faf38244aba612b63afbd012, type: 3}
+  m_Name: FireFlower
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -8810851392746606344, guid: f4a9d4fc25f0a7a4b8e393f3d61df9d5, type: 3}
+  aniPowerUp: {fileID: 0}
+  aniMario: {fileID: 22100000, guid: b220e9ed4e84c8d428fd321643e08b8b, type: 2}
+  delay: 0.25
+  upSpeed: 1
+  timeMoveUp: 1.2
+  hspeed: 0
+  bounces: 0
+  hasCure: 0
+  hasAttack: 1
+  hasDoubleJump: 0
+  hasClimbing: 0
+  projectile: {fileID: 2456622602363495098, guid: 7dbb7889ec272ab409eb0063093caabe,
+    type: 3}

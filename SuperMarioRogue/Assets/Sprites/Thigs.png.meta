@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 04d59566a6965ac4e9932b1c7babd6d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5403133060066738596
+    second: Thigs_0
+  - first:
+      213: 6063001830701466901
+    second: Thigs_1
+  - first:
+      213: 1012377586753306456
+    second: Thigs_2
+  - first:
+      213: -2299177578053217198
+    second: Thigs_3
+  - first:
+      213: -8237635270540642440
+    second: Thigs_4
+  - first:
+      213: 8096163546062894184
+    second: Thigs_5
+  - first:
+      213: 1768461836508397475
+    second: Thigs_6
+  - first:
+      213: -434189597459126279
+    second: Thigs_7
+  - first:
+      213: 383895881898500002
+    second: Thigs_8
+  - first:
+      213: -56664344088971456
+    second: Thigs_9
+  - first:
+      213: -7285156216226387810
+    second: Thigs_10
+  - first:
+      213: -3206164355178981083
+    second: Thigs_11
+  - first:
+      213: 4731556610015476292
+    second: Thigs_12
+  - first:
+      213: -6772647664999383663
+    second: Thigs_13
+  - first:
+      213: -2681944923005335425
+    second: Thigs_14
+  - first:
+      213: -1255525047703239696
+    second: Thigs_15
+  - first:
+      213: -4026217075549558695
+    second: Thigs_16
+  - first:
+      213: -3805038211462417847
+    second: Thigs_17
+  - first:
+      213: -2949405100646548167
+    second: Thigs_18
+  - first:
+      213: 4537341748700869330
+    second: Thigs_19
+  - first:
+      213: -1515881936468835258
+    second: Thigs_20
+  - first:
+      213: -2386612412162431395
+    second: Thigs_21
+  - first:
+      213: 7527844373947044937
+    second: Thigs_22
+  - first:
+      213: -8352547051268600828
+    second: Thigs_23
+  - first:
+      213: -4080294963216317929
+    second: Thigs_24
+  - first:
+      213: -4759661026172141204
+    second: Thigs_25
+  - first:
+      213: 7976104418653671174
+    second: Thigs_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thigs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1827f14e8cbfa40800000000000000
+      internalID: 5403133060066738596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5150187ba0c142450800000000000000
+      internalID: 6063001830701466901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f7ff42d00bc0e00800000000000000
+      internalID: 1012377586753306456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545890ac2ea710e0800000000000000
+      internalID: -2299177578053217198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8773236cd5a0ead80800000000000000
+      internalID: -8237635270540642440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 137
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864bb8e89d95b5070800000000000000
+      internalID: 8096163546062894184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 137
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3affaebaba6da8810800000000000000
+      internalID: 1768461836508397475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 123
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7674e8cd279f9f0800000000000000
+      internalID: -434189597459126279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 123
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af9b47454fd35500800000000000000
+      internalID: 383895881898500002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 123
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047752b4410b63ff0800000000000000
+      internalID: -56664344088971456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 123
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98e89e050de5ea90800000000000000
+      internalID: -7285156216226387810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 17
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299906818a6183d0800000000000000
+      internalID: -3206164355178981083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thigs_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 80
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09756097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44abf9efaadd9a140800000000000000
+      internalID: 4731556610015476292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

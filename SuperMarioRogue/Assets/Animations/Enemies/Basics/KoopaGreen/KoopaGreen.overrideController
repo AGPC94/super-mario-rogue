@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KoopaGreen
+  m_Controller: {fileID: 9100000, guid: 94e2f0239f55ea84bb95f6813e8de9d1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 39f842c34b08d9548808fdfe6269bb75, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4e743c60cefdce40ae6dd347f810c8c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cea53699f5ffb7949978a370510c3455, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1c94dd52a1ed4a841b7e22bbadb574a7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9bb9c246f71bce246b3c1adb8f5699ce, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f786e6be9075d1648ba480aa06cd0b76, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 799e9c07fdd076e41899f566e61bf8cb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d48cda564bbbbe4a9561d73c047301c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: baeb760aebe0ab747b59d4abed91136f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9612a25e1cf049c4cab614bef2f321b6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b8b1394dd2f589a42a5c495f215aac81, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d8a8c0492db7fbf4ebdc784e72aa1307, type: 2}

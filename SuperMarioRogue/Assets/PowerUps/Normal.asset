@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1062e50faf38244aba612b63afbd012, type: 3}
+  m_Name: Normal
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 5015562186513317148, guid: f4a9d4fc25f0a7a4b8e393f3d61df9d5, type: 3}
+  aniPowerUp: {fileID: 0}
+  aniMario: {fileID: 9100000, guid: 13e1d70c9651b5e44b7076670dc0a98c, type: 2}
+  delay: 0.25
+  upSpeed: 1
+  timeMoveUp: 1.2
+  hspeed: 1
+  hasCure: 1
+  hasAttack: 0
+  hasDoubleJump: 0
+  hasClimbing: 0
+  movement: 1
+  projectile: {fileID: 0}

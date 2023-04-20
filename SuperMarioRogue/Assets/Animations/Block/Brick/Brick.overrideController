@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Brick
+  m_Controller: {fileID: 9100000, guid: fd2e5e9b9de12ec4cbd12793d56f5ac0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fb96ee6d5c42fc6499e199e304e89999, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cbbe2b10cc24b6746a56da1a9764522a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8a197ba17fb48994e8d2a97c6a50c3fd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 911b237028f9fd646aab42a7fed52dfb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0456eac5ef5c3c54384c4417355a3000, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a306128612e4d1842bc788214286e75d, type: 2}
